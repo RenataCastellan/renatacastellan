@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 Atualmente estou aprendendo HTML, CSS, JAVASCRIPT E C#.
+- 🌱 Atualmente estou aprendendo HTML, CSS, JAVASCRIPT E  C#.
 - 👯 Procuro colaborar em projetos que vão desenvolver a minha carreira.
 - 😄 Pronomes: (ela/dela)
 
